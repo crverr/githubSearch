@@ -1,6 +1,11 @@
 # github_search
 
+## 项目界面
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/7f06f742fc554dc68ac4d38d82d97ca3.png)
+
 ## Project setup
+
 ```
 npm install
 ```
